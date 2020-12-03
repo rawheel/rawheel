@@ -27,7 +27,7 @@ Hi, I'm Raheel Siddiqui, And undergradute Software Engineering student [@UIT](ht
 - 👯 I’m looking to collaborate on [ZOOM BOT](https://github.com/abhisheknaiidu/A-POP) && [@Instagram Bot](https://github.com/rawheel/Instagram-Bot-to-send-DMs)🤝;
 - 💬 Ask me about Python Development, Desktop Applications, Automation, Data Analysis, Flask APIs;
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Zoom bot takes my online class while sleeping**
-and it crossed 1.5k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
+and it crossed 3k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
 - 📫 How to reach me: rsiddiqui@students.uit.edu;
 - 📝[Resume](https://drive.google.com/file/d/1kApUb0yOobqU5yv74fApysCixcoib8mC/view?usp=sharing)
 
