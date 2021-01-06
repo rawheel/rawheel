@@ -51,9 +51,6 @@ and it crossed 3k views on [@pytroops](https://www.youtube.com/pytroops) youtube
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
-![rawheel's github stats](https://github-readme-stats.vercel.app/api?username=rawheel&show_icons=true&hide_border=true)
-
 ⭐️ From [Raheel Siddiqui](https://github.com/rawheel)
 
 <a href="https://github.com/rawheel/Google-Meet-Bot-to-attend-meetings">
