@@ -24,7 +24,7 @@ Hi, I'm Raheel Siddiqui, And undergradute Software Engineering student [@UIT](ht
 
 - 👨🏽‍💻 I’m currently working on RISC-V, Python Development, Flutter;
 - 🌱 I’m currently learning Data Science, App Development; 
-- 👯 I’m looking to collaborate on [ZOOM BOT](https://github.com/abhisheknaiidu/A-POP) && [@Instagram Bot](https://github.com/rawheel/Instagram-Bot-to-send-DMs)🤝;
+- 👯 I’m looking to collaborate on [ZOOM BOT](https://github.com/rawheel/Instagram-Bot-to-send-DMs) && [@Instagram Bot](https://github.com/rawheel/Instagram-Bot-to-send-DMs)🤝;
 - 💬 Ask me about Python Development, Desktop Applications, Automation, Data Analysis, Flask APIs;
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Zoom bot takes my online class while sleeping**
 and it crossed 3k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
