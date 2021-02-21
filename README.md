@@ -16,14 +16,14 @@
 <br />
 <br />
 
-Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan, currently, I'm Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Freelancer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/raheel_ali_), Intern 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
+Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan, currently, I'm Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Freelance Software Developer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/raheel_ali_), Intern 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on RISC-V, Python Development, Flutter;
-- 🌱 I’m currently learning Data Science, App Development; 
+- 👨🏽‍💻 I’m currently working on RISC-V, Python Development, Front End engineering;
+- 🌱 I’m currently Exploring App Development, Data Science; 
 - 👯 I’m looking to collaborate on [ZOOM BOT](https://github.com/rawheel/Instagram-Bot-to-send-DMs) && [@Instagram Bot](https://github.com/rawheel/Instagram-Bot-to-send-DMs)🤝;
 - 💬 Ask me about Python Development, Desktop Applications, Automation, Data Analysis, Flask APIs;
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Zoom bot takes my online class while sleeping**
