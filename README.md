@@ -24,7 +24,7 @@ Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](htt
 
 - 👨🏽‍🌱 I’m currently Exploring Front End Engineering, Data Science; 
 - 👯 I’m looking to collaborate on [MyUnfollowers App](https://github.com/rawheel/My-Unfollowers-App)🤝;
-- 💬 Ask me about Python Development, Desktop Applications, Automation, Data Analysis, Flask APIs;
+- 💬 Ask me about Python Development, Desktop Applications, Automation, Data Analysis, Flask & Django;
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Zoom bot takes my online class while sleeping**
 and it crossed 3k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
 - 📫 How to reach me: rsiddiqui@students.uit.edu;
