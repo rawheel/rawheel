@@ -28,7 +28,7 @@ Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](htt
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Zoom bot takes my online class while sleeping**
 and it crossed 5k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
 - 📫 How to reach me: rsiddiqui@students.uit.edu;
-- 📝[Resume](https://drive.google.com/file/d/1NOb_088SL138Vvr6Tx7TOUwbmd23Bb8i/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1UW9ReyVCQyl347nSln3xTz9Ms_mLX6nc/view?usp=sharing)
 
 **Languages and Tools:**  
 
