@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Raheel!](https://www.flow.page/raheelsiddiqui) 
 
 <a href="https://twitter.com/raheelsiddiqui_">
-  <img align="left" alt="Raheel Siddiqui | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Raheel Siddiqui | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
 </a>
 <a href="https://www.linkedin.com/in/raheel-siddiqui-6055b5178">
   <img align="left" alt="Raheel's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
