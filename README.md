@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Raheel!](https://www.flow.page/raheelsiddiqui)
+### Hey 👋🏽, I'm [Raheel!](https://raheelsiddiqui.com/)
 
 <a href="https://twitter.com/raheelsiddiqui_">
   <img align="left" alt="Raheel Siddiqui | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
