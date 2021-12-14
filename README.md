@@ -27,7 +27,7 @@ Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](htt
 - 💬 Ask me about Python Development, Vuejs, Desktop Applications, Automation, Data Analysis, Flask & Django;
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Google Meet Bot attended my Meetings**
 and it crossed 10k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
-- 📫 How to reach me: rsiddiqui@students.uit.edu;
+- 📫 How to reach me: raheelsiddiqui365@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/18WDK53V4F3W3NzTSsUGrbTaC3QsN3mxW/view?usp=sharing)
 
 **Languages and Tools:**  
