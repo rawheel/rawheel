@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan. I'm a First GitHub campus Expert from Karachi,Pakistan, Former Google Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Microsoft Learn Student Ambassador, AWS Community Builder, Freelance Software Developer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/raheel_ali_), Had been contributing open source 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and have been a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
+Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan. I'm a First GitHub campus Expert from Karachi,Pakistan, Former Google Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Microsoft Learn Student Ambassador, AWS Community Builder, Freelance Software Developer 👨🏽‍💻 , Had been contributing open source 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and have been a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -24,9 +24,9 @@ Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](htt
 
 - 👨🏽‍🌱 I’m currently Exploring Software Architechture Aproaches, Ai; 
 - 👯 I’m looking to collaborate on [MyUnfollowers App](https://github.com/rawheel/My-Unfollowers-App)🤝;
-- 💬 Ask me about Python Development, Vuejs, Desktop Applications, Automation, Data Analysis, Flask & Django;
+- 💬 Ask me about Python, Vuejs, Django, Flask,Desktop Applications, Web development, Datascience, Automation;
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Google Meet Bot attended my Meetings**
-and it crossed 10k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
+and it crossed 12k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
 - 📫 How to reach me: raheelsiddiqui365@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/18WDK53V4F3W3NzTSsUGrbTaC3QsN3mxW/view?usp=sharing)
 
