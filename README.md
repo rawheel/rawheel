@@ -52,16 +52,3 @@ and it crossed 12k views on [@pytroops](https://www.youtube.com/pytroops) youtub
 
 
 ⭐️ From [Raheel Siddiqui](https://github.com/rawheel)
-
-<a href="https://github.com/rawheel/My-Unfollowers-App">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rawheel&repo=MyUnfollowers-App" />
-</a>
-<a href="https://github.com/rawheel/Zoom-Bot-to-take-Online-Classes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rawheel&repo=Zoom-Bot-to-take-Online-Classes" />
-</a>
-<a href="https://github.com/rawheel/Cryptocurrencies-Data-Analysis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rawheel&repo=Cryptocurrencies-Data-Analysis" />
-</a>
-<a href="https://github.com/rawheel/5-stage-pipeline-core-RISC-V_ISA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rawheel&repo=5-stage-pipeline-core-RISC-V_ISA" />
-</a>
