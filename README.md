@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Raheel!](https://raheelsiddiqui.com/)
 
-<a href="https://twitter.com/raheelsiddiqui_">
+<a href="https://twitter.com/rawheeel">
   <img align="left" alt="Raheel Siddiqui | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
 </a>
 <a href="https://www.linkedin.com/in/raheel-siddiqui-python/">
