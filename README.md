@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan. I'm a First GitHub campus Expert from Karachi,Pakistan, Former Google Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Microsoft Learn Student Ambassador, AWS Community Builder, Freelance Software Developer 👨🏽‍💻 , Had been contributing open source 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and have been a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
+Hi, I'm Raheel Siddiqui, A Fresh Graduate Software Engineering student [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan. I'm a First GitHub campus Expert from Karachi,Pakistan, Former Google Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Microsoft Learn Student Ambassador, AWS Community Builder, Freelance Software Developer 👨🏽‍💻 , Had been contributing open source 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and have been a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
