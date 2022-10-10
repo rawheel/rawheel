@@ -22,7 +22,7 @@ Hi, I'm Raheel Siddiqui, A Fresh Graduate Software Engineering student [@UIT](ht
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍🌱 I’m currently Exploring Software Architechture Aproaches, Ai; 
+- 👨🏽‍🌱 I’m currently Exploring Backend Development; 
 - 👯 I’m looking to collaborate on [MyUnfollowers App](https://github.com/rawheel/My-Unfollowers-App)🤝;
 - 💬 Ask me about Python, Vuejs, Django, Flask,Desktop Applications, Web development, Datascience, Automation;
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Google Meet Bot attended my Meetings**
