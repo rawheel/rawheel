@@ -16,7 +16,11 @@
 <br />
 <br />
 
-Hi, I'm Raheel Siddiqui, A Fresh Graduate Software Engineering student [@UIT](http://www.uitu.edu.pk/) with Software Development skills 🚀 from Pakistan. I'm a First GitHub campus Expert from Karachi,Pakistan, Former Google Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Microsoft Learn Student Ambassador, AWS Community Builder, Freelance Software Developer 👨🏽‍💻 , Had been contributing open source 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and have been a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
+Hey there, I'm Raheel Siddiqui, a Software Engineer from Pakistan with passion for software engineering 🚀. I'm a first [@GitHub campus Expert](https://githubcampus.expert/rawheel/) from Karachi, Pakistan, Former Google Developer Student Club Lead [@googledevelopers](https://developers.google.com/community/dsc), Member of [@IEEE](https://www.ieee.org/), and AWS Community Builder. I love open source and have been contributing to the @MERL-UIT👨🏽‍💼[@MERL-UIT](https://github.com/merledu) project. I'm also the founder of [@pytroops](https://www.youtube.com/pytroops), a cool community for tech enthusiasts like me.
+
+When I'm not coding, I love jamming to music, exploring new places, binge-watching Tv Shows, and yeah, programming some more.
+
+
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -24,7 +28,7 @@ Hi, I'm Raheel Siddiqui, A Fresh Graduate Software Engineering student [@UIT](ht
 
 - 👨🏽‍🌱 I’m currently Exploring Backend Development; 
 - 👯 I’m looking to collaborate on [FastAPI Boilerplate](https://github.com/rawheel/fastapi-boilerplate)🤝;
-- 💬 Ask me about Python, Vuejs, Django, Flask,Desktop Applications, Web development, Datascience, Automation;
+- 💬 Ask me about Python, Vuejs, FastAPI ,Django, Flask,Desktop Applications, Web development, Datascience, Automation;
 - ⚡️ Fun-Fact: Recently I went on a solo trip in a total strange country. 
 - 📫 How to reach me: raheelsiddiqui365@gmail.com;
 - 📝[Resume](https://docs.google.com/document/d/1BAMzLdp9dHGznI_onSYY1ay0v1SPsld_ORfpVh6UgPE/export?format=pdf)
@@ -33,7 +37,7 @@ Hi, I'm Raheel Siddiqui, A Fresh Graduate Software Engineering student [@UIT](ht
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
 <code><img height="20" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"></code>
