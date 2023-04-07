@@ -28,7 +28,7 @@ Hi, I'm Raheel Siddiqui, A Fresh Graduate Software Engineering student [@UIT](ht
 - ⚡️ Fun-Fact: Recently I uploaded tutorial **Google Meet Bot attended my Meetings**
 and it crossed 12k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
 - 📫 How to reach me: raheelsiddiqui365@gmail.com;
-- 📝[Resume](https://drive.google.com/file/u/1/d/1fuUDOYlzHpuN_WNl89OK87TybvWj5s1N/view)
+- 📝[Resume](https://docs.google.com/document/d/1BAMzLdp9dHGznI_onSYY1ay0v1SPsld_ORfpVh6UgPE/view)
 
 **Languages and Tools:**  
 
