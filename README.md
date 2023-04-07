@@ -23,10 +23,9 @@ Hi, I'm Raheel Siddiqui, A Fresh Graduate Software Engineering student [@UIT](ht
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍🌱 I’m currently Exploring Backend Development; 
-- 👯 I’m looking to collaborate on [MyUnfollowers App](https://github.com/rawheel/My-Unfollowers-App)🤝;
+- 👯 I’m looking to collaborate on [FastAPI Boilerplate](https://github.com/rawheel/fastapi-boilerplate)🤝;
 - 💬 Ask me about Python, Vuejs, Django, Flask,Desktop Applications, Web development, Datascience, Automation;
-- ⚡️ Fun-Fact: Recently I uploaded tutorial **Google Meet Bot attended my Meetings**
-and it crossed 12k views on [@pytroops](https://www.youtube.com/pytroops) youtube channel.👨🏽‍💻
+- ⚡️ Fun-Fact: Recently I went on a solo trip in a total strange country. 
 - 📫 How to reach me: raheelsiddiqui365@gmail.com;
 - 📝[Resume](https://docs.google.com/document/d/1BAMzLdp9dHGznI_onSYY1ay0v1SPsld_ORfpVh6UgPE/export?format=pdf)
 
