@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hey there, I'm Raheel Siddiqui, a Software Engineer from Pakistan with passion for software engineering 🚀. I'm a first [@GitHub campus Expert](https://githubcampus.expert/rawheel/) from Karachi, Pakistan, Former Google Developer Student Club Lead [@googledevelopers](https://developers.google.com/community/dsc), Member of [@IEEE](https://www.ieee.org/), and AWS Community Builder. I love open source and have been contributing to the @MERL-UIT👨🏽‍💼[@MERL-UIT](https://github.com/merledu) project. I'm also the founder of [@pytroops](https://www.youtube.com/pytroops), a cool community for tech enthusiasts like me.
+Hey there, I'm Raheel Siddiqui, a Software Engineer from Pakistan 🚀. I'm a first [@GitHub campus Expert](https://githubcampus.expert/rawheel/) from Karachi, Pakistan, Former Google Developer Student Club Lead [@googledevelopers](https://developers.google.com/community/dsc), Member of [@IEEE](https://www.ieee.org/), and AWS Community Builder. I love open source and have been contributing to the @MERL-UIT👨🏽‍💼[@MERL-UIT](https://github.com/merledu) project. I'm also the founder of [@pytroops](https://www.youtube.com/pytroops), a cool community for tech enthusiasts like me.
 
 When I'm not coding, I love jamming to music, exploring new places, binge-watching Tv Shows, and yeah, programming some more.
 
