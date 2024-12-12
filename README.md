@@ -31,7 +31,6 @@ When I'm not coding, I love jamming to music, exploring new places, binge-watchi
 - 💬 Ask me about Python, Vuejs, FastAPI ,Django, Flask,Desktop Applications, Web development, Datascience, Automation;
 - ⚡️ Fun-Fact: Recently I went on a solo trip in a total strange country. 
 - 📫 How to reach me: raheelsiddiqui365@gmail.com;
-- 📝[Resume](https://docs.google.com/document/d/1BAMzLdp9dHGznI_onSYY1ay0v1SPsld_ORfpVh6UgPE/export?format=pdf)
 
 **Languages and Tools:**  
 
